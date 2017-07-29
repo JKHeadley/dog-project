@@ -1,0 +1,185 @@
+[I 18:39:55.370 NotebookApp] Serving notebooks from local directory: /home/aind2/dog-project
+[I 18:39:55.371 NotebookApp] 0 active kernels 
+[I 18:39:55.371 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8888/?token=e209d8a6f9bcfddc1f35a8affb23e32e5d45d465499a2cf7
+[I 18:39:55.371 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:39:55.371 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8888/?token=e209d8a6f9bcfddc1f35a8affb23e32e5d45d465499a2cf7
+[C 18:42:06.839 NotebookApp] received signal 15, stopping
+[I 18:42:06.840 NotebookApp] Shutting down kernels
+[I 18:42:20.057 NotebookApp] Serving notebooks from local directory: /home/aind2/dog-project
+[I 18:42:20.057 NotebookApp] 0 active kernels 
+[I 18:42:20.057 NotebookApp] The Jupyter Notebook is running at: http://0.0.0.0:8888/?token=74bffde299c7e94cbc54165a70d10cc63c96dbaaa33d1531
+[I 18:42:20.057 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:42:20.058 NotebookApp] 
+    
+    Copy/paste this URL into your browser when you connect for the first time,
+    to login with a token:
+        http://0.0.0.0:8888/?token=74bffde299c7e94cbc54165a70d10cc63c96dbaaa33d1531
+[I 18:43:25.663 NotebookApp] 302 GET /?token=74bffde299c7e94cbc54165a70d10cc63c96dbaaa33d1531 (73.15.53.141) 0.63ms
+[W 18:43:44.479 NotebookApp] 404 GET /favicon.ico (73.15.53.141) 8.48ms referer=http://54.167.157.130:8888/view/nohup.out
+[I 18:44:06.095 NotebookApp] Kernel started: b4902f04-9435-4bb6-9c79-6db92f70e965
+[I 18:44:06.300 NotebookApp] 302 GET /notebooks/images/sample_dog_output.png (73.15.53.141) 4.87ms
+[I 18:44:06.301 NotebookApp] 302 GET /notebooks/images/Curly-coated_retriever_03896.jpg (73.15.53.141) 0.85ms
+[I 18:44:06.302 NotebookApp] 302 GET /notebooks/images/Welsh_springer_spaniel_08203.jpg (73.15.53.141) 0.71ms
+[I 18:44:06.303 NotebookApp] 302 GET /notebooks/images/Brittany_02625.jpg (73.15.53.141) 0.72ms
+[I 18:44:06.304 NotebookApp] 302 GET /notebooks/images/American_water_spaniel_00648.jpg (73.15.53.141) 0.72ms
+[I 18:44:06.722 NotebookApp] 302 GET /notebooks/images/Labrador_retriever_06457.jpg (73.15.53.141) 0.91ms
+[I 18:44:06.802 NotebookApp] 302 GET /notebooks/images/Labrador_retriever_06455.jpg (73.15.53.141) 0.90ms
+[I 18:44:06.812 NotebookApp] 302 GET /notebooks/images/Labrador_retriever_06449.jpg (73.15.53.141) 0.76ms
+[I 18:44:06.814 NotebookApp] 302 GET /notebooks/images/sample_cnn.png (73.15.53.141) 0.72ms
+[I 18:44:07.037 NotebookApp] 302 GET /notebooks/images/sample_human_output.png (73.15.53.141) 0.74ms
+2017-07-24 18:45:14.871015: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 18:45:14.871060: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 18:45:14.871067: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 18:45:14.871072: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 18:45:14.871077: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 18:45:15.033111: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2017-07-24 18:45:15.033666: I tensorflow/core/common_runtime/gpu/gpu_device.cc:887] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.04GiB
+2017-07-24 18:45:15.033695: I tensorflow/core/common_runtime/gpu/gpu_device.cc:908] DMA: 0 
+2017-07-24 18:45:15.033702: I tensorflow/core/common_runtime/gpu/gpu_device.cc:918] 0:   Y 
+2017-07-24 18:45:15.033711: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 18:46:06.425 NotebookApp] Saving file at /dog_app.ipynb
+[I 18:48:06.267 NotebookApp] Saving file at /dog_app.ipynb
+[I 18:50:06.224 NotebookApp] Saving file at /dog_app.ipynb
+[I 18:52:06.222 NotebookApp] Saving file at /dog_app.ipynb
+[I 18:54:06.225 NotebookApp] Saving file at /dog_app.ipynb
+[I 18:56:06.561 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:04:07.041 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:06:06.255 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:08:06.198 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:12:06.700 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:14:06.303 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:16:06.215 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:20:06.188 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:24:06.680 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:26:10.154 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:32:07.022 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:36:06.741 NotebookApp] Saving file at /dog_app.ipynb
+[W 19:36:10.165 NotebookApp] delete /model2_5.pickle
+[W 19:36:10.169 NotebookApp] delete /model2_5.npy
+[I 19:38:06.219 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:40:06.962 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:42:06.460 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:44:06.229 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:46:06.206 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:48:07.035 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:50:06.635 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:52:06.210 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:54:06.182 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:56:06.157 NotebookApp] Saving file at /dog_app.ipynb
+[I 19:58:06.156 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:00:06.167 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:02:06.146 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:04:06.143 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:06:06.145 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:08:06.140 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:10:06.145 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:12:06.145 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:14:06.144 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:16:06.135 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:18:06.144 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:20:06.140 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:22:06.150 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:24:06.133 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:26:06.122 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:28:06.126 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:30:09.409 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:48:38.238 NotebookApp] 302 GET / (169.54.244.82) 0.56ms
+[I 20:50:07.082 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:52:06.127 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:54:06.059 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:56:06.556 NotebookApp] Saving file at /dog_app.ipynb
+[I 20:58:06.117 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:00:06.122 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:02:06.125 NotebookApp] Saving file at /dog_app.ipynb
+[W 21:02:10.290 NotebookApp] 404 GET http://testp3.pospr.waw.pl/testproxy.php (91.196.50.33) 1.54ms referer=None
+[I 21:04:06.060 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:06:06.284 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:08:06.075 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:10:06.070 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:12:06.475 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:14:07.312 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:16:06.089 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:18:06.059 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:20:06.789 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:22:07.465 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:24:06.051 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:26:06.086 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:28:06.327 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:30:06.074 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:32:06.042 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:34:06.654 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:54:06.928 NotebookApp] Saving file at /dog_app.ipynb
+[I 21:56:06.049 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:38:06.580 NotebookApp] Saving file at /dog_app.ipynb
+[W 22:40:17.173 NotebookApp] 404 GET http://www.baidu.com/cache/global/img/gs.gif (93.174.93.136) 1.50ms referer=None
+[I 22:42:05.959 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:43:31.877 NotebookApp] Kernel interrupted: b4902f04-9435-4bb6-9c79-6db92f70e965
+[I 22:43:40.761 NotebookApp] Kernel interrupted: b4902f04-9435-4bb6-9c79-6db92f70e965
+[I 22:43:44.502 NotebookApp] Kernel interrupted: b4902f04-9435-4bb6-9c79-6db92f70e965
+[I 22:43:47.695 NotebookApp] Kernel interrupted: b4902f04-9435-4bb6-9c79-6db92f70e965
+[I 22:44:05.919 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:44:45.715 NotebookApp] Kernel restarted: b4902f04-9435-4bb6-9c79-6db92f70e965
+2017-07-24 22:45:21.528299: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.1 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 22:45:21.528350: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use SSE4.2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 22:45:21.528357: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 22:45:21.528362: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use AVX2 instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 22:45:21.528367: W tensorflow/core/platform/cpu_feature_guard.cc:45] The TensorFlow library wasn't compiled to use FMA instructions, but these are available on your machine and could speed up CPU computations.
+2017-07-24 22:45:21.623945: I tensorflow/stream_executor/cuda/cuda_gpu_executor.cc:901] successful NUMA node read from SysFS had negative value (-1), but there must be at least one NUMA node, so returning NUMA node zero
+2017-07-24 22:45:21.624434: I tensorflow/core/common_runtime/gpu/gpu_device.cc:887] Found device 0 with properties: 
+name: Tesla K80
+major: 3 minor: 7 memoryClockRate (GHz) 0.8235
+pciBusID 0000:00:1e.0
+Total memory: 11.17GiB
+Free memory: 11.04GiB
+2017-07-24 22:45:21.624453: I tensorflow/core/common_runtime/gpu/gpu_device.cc:908] DMA: 0 
+2017-07-24 22:45:21.624459: I tensorflow/core/common_runtime/gpu/gpu_device.cc:918] 0:   Y 
+2017-07-24 22:45:21.624468: I tensorflow/core/common_runtime/gpu/gpu_device.cc:977] Creating TensorFlow device (/gpu:0) -> (device: 0, name: Tesla K80, pci bus id: 0000:00:1e.0)
+[I 22:46:05.954 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:48:05.914 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:50:05.964 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:52:05.904 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:54:05.929 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:56:05.997 NotebookApp] Saving file at /dog_app.ipynb
+[I 22:58:06.336 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:00:05.944 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:02:05.928 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:04:05.899 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:06:05.908 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:08:05.902 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:10:05.917 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:12:05.912 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:14:05.898 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:16:05.882 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:18:05.898 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:20:05.902 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:22:05.882 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:24:05.884 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:26:05.875 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:28:05.882 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:30:05.893 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:32:05.883 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:34:05.887 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:36:05.881 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:38:05.873 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:40:05.868 NotebookApp] Saving file at /dog_app.ipynb
+[I 23:42:06.282 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:10:06.706 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:12:05.873 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:14:06.278 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:16:06.254 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:18:05.843 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:20:05.834 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:22:06.269 NotebookApp] Saving file at /dog_app.ipynb
+[I 00:24:06.351 NotebookApp] Saving file at /dog_app.ipynb
+[C 00:24:35.458 NotebookApp] received signal 15, stopping
+[I 00:24:35.459 NotebookApp] Shutting down kernels
+[I 00:24:35.861 NotebookApp] Kernel shutdown: b4902f04-9435-4bb6-9c79-6db92f70e965
