@@ -376,20 +376,20 @@ We mention that the task of assigning breed to dogs from images is considered ex
 
 Brittany | Welsh Springer Spaniel
 - | - 
-<img src="Images/Brittany_02625.jpg" width="100"> | <img src="https://github.com/JKHeadley/dog-project/blob/master/dog_app/Images/Welsh_springer_spaniel_08203.jpg" width="200">
+<img src="Images/Brittany_02625.jpg" width="100"> | <img src="Images/Welsh_springer_spaniel_08203.jpg" width="200">
 
 It is not difficult to find other dog breed pairs with minimal inter-class variation (for instance, Curly-Coated Retrievers and American Water Spaniels).  
 
 Curly-Coated Retriever | American Water Spaniel
 - | -
-<img src="images/Curly-coated_retriever_03896.jpg" width="200"> | <img src="images/American_water_spaniel_00648.jpg" width="200">
+<img src="Images/Curly-coated_retriever_03896.jpg" width="200"> | <img src="Images/American_water_spaniel_00648.jpg" width="200">
 
 
 Likewise, recall that labradors come in yellow, chocolate, and black.  Your vision-based algorithm will have to conquer this high intra-class variation to determine how to classify all of these different shades as the same breed.  
 
 Yellow Labrador | Chocolate Labrador | Black Labrador
 - | -
-<img src="images/Labrador_retriever_06457.jpg" width="150"> | <img src="images/Labrador_retriever_06455.jpg" width="240"> | <img src="images/Labrador_retriever_06449.jpg" width="220">
+<img src="Images/Labrador_retriever_06457.jpg" width="150"> | <img src="Images/Labrador_retriever_06455.jpg" width="240"> | <img src="Images/Labrador_retriever_06449.jpg" width="220">
 
 We also mention that random chance presents an exceptionally low bar: setting aside the fact that the classes are slightly imabalanced, a random guess will provide a correct answer roughly 1 in 133 times, which corresponds to an accuracy of less than 1%.  
 
