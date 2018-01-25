@@ -376,7 +376,7 @@ We mention that the task of assigning breed to dogs from images is considered ex
 
 Brittany | Welsh Springer Spaniel
 - | - 
-<img src="images/Brittany_02625.jpg" width="100"> | <img src="images/Welsh_springer_spaniel_08203.jpg" width="200">
+<img src="images/Brittany_02625.jpg" width="100"> | <img src="https://github.com/JKHeadley/dog-project/blob/master/dog_app/Images/Welsh_springer_spaniel_08203.jpg" width="200">
 
 It is not difficult to find other dog breed pairs with minimal inter-class variation (for instance, Curly-Coated Retrievers and American Water Spaniels).  
 
