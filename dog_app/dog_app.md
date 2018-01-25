@@ -800,6 +800,8 @@ Create a CNN to classify dog breed.  At the end of your code cell block, summari
    
 __Question 5:__ Outline the steps you took to get to your final CNN architecture and your reasoning at each step.  Describe why you think the architecture is suitable for the current problem.
 
+## Training Results
+
 __Answer:__ First I mimicked the approach from the VGG_16 example, but when I plotted the accuracy and loss there seemed to be some evidence of overfitting (see the figures below), so I added a dropout layer, and the predicition accuracy seemed to go from about 80% to 82%. Compared to the low percentage of random guessing and the accuracy of the custom (~12%) and VGG_16 (~48%) CNNs, I think this is excellent and well suited for the problem. I'm just amazed at the utility of transfer learning!
 
 
